@@ -11,10 +11,15 @@ h1{
 	color:green;
 	text-decoration:underline;
 }
-
+img
+{
+width:600px;
+height:300px;	
+}
 </style>
 </head>
-<body>
+<body bgcolor="pink">
+<img src="book1.jpg" alt="image" align="right"/>
 <h2>Hello, <?php echo $_SESSION['username']; ?></h2>
 <a href="logout.php">Logout</a>
 <h1>Book Record Management</h1>

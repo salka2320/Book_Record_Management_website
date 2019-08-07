@@ -9,11 +9,30 @@ mysqli_close($con);
 <!doctype html>
 <html>
 <head>
-<title>Insertion</title>
+<title>View Book Record</title>
 <link rel="stylesheet" href="./css/viewstyle.css" />
+<style type="text/css">
+h1{
+	color:green;
+	text-decoration:underline;
+}
+iframe
+{
+	width:100%;
+	height:250px;
+}
+img
+{
+width:600px;
+height:400px;	
+}
+
+</style>
 </head>
-<body>
+<body bgcolor="lightblue">
 <h1>Book Record Management</h1>
+<iframe src="http://freecomputerbooks.com/compscCategory.html"></iframe>
+<img src="books.jpg" alt="image" align="right"/>
 <table id="view_table">
 <tr>
 <th>Book ID</th>

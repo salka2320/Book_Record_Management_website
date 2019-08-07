@@ -11,8 +11,15 @@ mysqli_close($con);
 <head>
 <title>Delete Book Record</title>
 <link rel="stylesheet" href="./css/viewstyle.css" />
+<style type="text/css">
+h1{
+	color:green;
+	text-decoration:underline;
+}
+
+</style>
 </head>
-<body>
+<body bgcolor="lightblue">
 <h1>Book Record Management</h1>
 <form action="deletion.php" method="post">
 <table id="view_table">

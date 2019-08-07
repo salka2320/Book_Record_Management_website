@@ -6,10 +6,19 @@
 tr{
 	background-color:pink;
 }
+img
+{
+width:600px;
+height:400px;
+color:lightblue;
+border:solid;
+	
+}
 </style>
 </head>
-<body>
+<body bgcolor="lightblue">
 <h1>Book Record Management</h1>
+<img src="book2.jpg" alt="image" align="right"/>
 <form action="insertion.php" method="post">
 <table>
 <tr>

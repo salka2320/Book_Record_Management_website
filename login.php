@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<body>
+<body bgcolor="lightblue">
 <h2>Login Window</h2>
 <form action="validation.php" method="post">
 <table>

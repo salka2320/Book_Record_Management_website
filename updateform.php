@@ -11,9 +11,25 @@ mysqli_close($con);
 <head>
 <title>Update Book Record</title>
 <link rel="stylesheet" href="./css/viewstyle.css" />
+<style type="text/css">
+h1{
+	color:green;
+	text-decoration:underline;
+}
+img
+{
+width:500px;
+height:300px;
+color:lightblue;
+border:solid;
+	
+}
+
+</style>
 </head>
-<body>
+<body bgcolor="lightblue">
 <h1>Book Record Management</h1>
+<img src="book2.jpg" alt="image" align="right"/>
 <form action="updation.php" method="post">
 <table id="view_table">
 <tr>
