@@ -26,7 +26,6 @@ img
 width:600px;
 height:400px;	
 }
-
 </style>
 </head>
 <body bgcolor="lightblue">

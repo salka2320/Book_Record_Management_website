@@ -16,7 +16,6 @@ h1{
 	color:green;
 	text-decoration:underline;
 }
-
 </style>
 </head>
 <body bgcolor="lightblue">

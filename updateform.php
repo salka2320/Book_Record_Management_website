@@ -22,9 +22,7 @@ width:500px;
 height:300px;
 color:lightblue;
 border:solid;
-	
 }
-
 </style>
 </head>
 <body bgcolor="lightblue">

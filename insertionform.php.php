@@ -12,7 +12,6 @@ width:600px;
 height:400px;
 color:lightblue;
 border:solid;
-	
 }
 </style>
 </head>
